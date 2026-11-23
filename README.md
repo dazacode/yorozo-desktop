@@ -8,4 +8,4 @@ The app is the website ([yorozo.vercel.app](https://yorozo.vercel.app)) plus wha
 
 Each release carries `SHA256SUMS`; `latest.json` and the `.sig` file are for the app's updater.
 
-Licensing: Yorozo is AGPL-3.0-or-later. The app bundles libmpv and FFmpeg libraries under the LGPL-2.1; their notices are in `Yorozo.app/Contents/Frameworks/`.
+Licensing: Yorozo is AGPL-3.0-or-later. The app bundles libmpv and FFmpeg libraries under the LGPL-2.1; the libraries are in `Yorozo.app/Contents/Frameworks/` and their notices in `Yorozo.app/Contents/Resources/libmpv/NOTICE.txt`.
